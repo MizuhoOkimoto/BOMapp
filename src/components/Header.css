@@ -1,0 +1,15 @@
+.header-container {
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+
+.logo {
+  width: 180px;
+  height: auto;
+}
+
+.header-text {
+  text-align: center;
+  font-size: 2rem;
+}
